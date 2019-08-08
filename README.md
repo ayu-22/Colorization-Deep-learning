@@ -9,4 +9,4 @@ I have used colornet dataset which is public dataset on FloydHub. A total of 900
 
 **Architecture of model is shown below**
 ![model](model_color.PNG)
-##the image taken from the original paper
+##the image is taken from the original paper
