@@ -10,3 +10,5 @@ I have used colornet dataset which is public dataset on FloydHub. A total of 900
 **Architecture of model is shown below**
 ![model](model_color.PNG)
 ##the image is taken from the original paper
+## Acknowledgement
+I would like to thanks Emil Wallner for his FloydHub Blog **Colorizing B&W Photos with Neural Networks**. I have taken from that. Thanks for sharing. [Blog Link](https://blog.floydhub.com/colorizing-b-w-photos-with-neural-networks/) 
