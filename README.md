@@ -8,5 +8,5 @@ Coloring the black and white images has been a very well known problem in the fi
 I have used colornet dataset which is public dataset on FloydHub. A total of 9000 images. the model was trained for 1000 epochs.
 
 **Architecture of model is shown below**
-![model](model_color.png)
+![model](model_color.PNG)
 ##the image taken from the original paper
